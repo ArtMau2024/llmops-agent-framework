@@ -36,7 +36,7 @@ O agente utiliza skills modulares organizadas em:
 - Code Generation (geração de código)
 - Validation (validação)
 - Planning (planejamento)
-- Task Decomposition (quebra de tarefas)
+- Task Decomposition (decomposição de tarefas)
 - Self Critique (autocrítica)
 - Clarification (coleta de contexto)
 
@@ -55,7 +55,7 @@ Task Decomposition
 ↓
 Reasoning
 ↓
-Code / Analysis
+Code Generation / Data Analysis
 ↓
 Validation
 ↓
