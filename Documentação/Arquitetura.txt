@@ -1,0 +1,21 @@
+/projeto-llmops
+│
+├── 01_contexto/
+│   ├── projeto_master.docx
+│
+├── 02_specs/
+│   ├── mvp1_spec.docx
+│   ├── mvp2_spec.docx
+│
+├── 03_agent_config/
+│   ├── agent_rules.docx
+│   ├── skills.md
+│   ├── prompts_base.md
+│
+├── 04_execucao/
+│   ├── codigo/
+│   ├── dados/
+│
+├── 05_evaluation/
+│   ├── criterios.md
+│   ├── testes.md
